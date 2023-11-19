@@ -1,0 +1,17 @@
+{
+  "name": "Cafe Mang Statham",
+  "short_name": "CMS",
+  "description": "Aplikasi PWA untuk menikmati Cafe Mang Statham",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon.jpeg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
